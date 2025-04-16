@@ -165,6 +165,20 @@ SVI and LIS were used to increase outreach support, not deny care
 
 Outreach strategies reflect real-world policy shared by the data scientist, but not proprietary algorithms
 
+## Resources and Links
+
+-CDC Social Vulnerability Index (SVI)
+
+https://www.atsdr.cdc.gov/placeandhealth/svi/index.html
+
+Where I downloaded the CSVs for 2018, 2020, and 2022
+
+-HUD ZIP Code to Census Tract Crosswalk
+
+Used to match ZIP codes to FIPS for SVI merge
+
+https://www.huduser.gov/portal/datasets/usps_crosswalk.html
+
 ## Thank You
 
 Presented by Xuanxuan Chen
